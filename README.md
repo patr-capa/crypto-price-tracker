@@ -13,7 +13,7 @@ Features:
 
 Setup:
 	Clone the repository:
-		git clone https://github.com/your-username/crypto-price-tracker.git
+		git clone https://github.com/patr-capa/crypto-price-tracker.git
 
 	Navigate to the project folder:
 		cd crypto-price-tracker
