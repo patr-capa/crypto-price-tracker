@@ -123,7 +123,7 @@ def main():
                 change_str = f"{change:+.5f}%" if change is not None else "N/A"
 
                 print(f"{crypto.capitalize():<10} | ${price:<10.5f} | Change: {change_str}")
-                print(f"Raw values - Price: {price}, Last Price: {last_price}")
+                #print(f"Raw values - Price: {price}, Last Price: {last_price}")
 
             print("=" * 40)
 
